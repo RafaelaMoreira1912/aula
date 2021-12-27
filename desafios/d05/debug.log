@@ -1,0 +1,15 @@
+[1209/190230.030:ERROR:process_info.cc(359)] UncheckedAllocate
+[1209/190230.262:ERROR:process_info.cc(359)] UncheckedAllocate
+[1209/190231.505:ERROR:process_info.cc(359)] UncheckedAllocate
+[1209/190232.326:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\USER\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\a9f57903-9c40-4a21-b3e6-dc857e0f2017: O sistema não pode encontrar o caminho especificado. (0x3)
+[1209/190244.697:ERROR:process_info.cc(359)] UncheckedAllocate
+[1209/190404.118:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1209/190423.059:ERROR:process_info.cc(359)] UncheckedAllocate
+[0114/222816.706:ERROR:process_info.cc(359)] UncheckedAllocate
+[0114/222819.027:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\USER\AppData\Local\Google\Chrome\User Data\Crashpad\reports\54676633-527d-4428-b50b-2a709874c836.dmp: O arquivo já está sendo usado por outro processo. (0x20)
+[0114/222838.937:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\USER\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\0204cd1a-7818-444f-9559-0c2347e1ac41: O sistema não pode encontrar o caminho especificado. (0x3)
+[0114/222916.053:ERROR:process_info.cc(359)] UncheckedAllocate
+[0114/222916.194:ERROR:process_info.cc(359)] UncheckedAllocate
+[0114/222919.222:ERROR:process_info.cc(359)] UncheckedAllocate
+[0114/222921.050:ERROR:process_info.cc(359)] UncheckedAllocate
+[0114/223003.143:ERROR:process_info.cc(359)] UncheckedAllocate

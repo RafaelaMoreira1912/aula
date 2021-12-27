@@ -1,0 +1,9 @@
+[1208/141350.641:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1208/175803.239:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1208/223222.593:ERROR:process_info.cc(359)] UncheckedAllocate
+[1208/223222.925:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\USER\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\566d2beb-d4d4-4d0a-a226-cb9020857332: O sistema não pode encontrar o caminho especificado. (0x3)
+[1208/223236.780:ERROR:process_info.cc(359)] UncheckedAllocate
+[1208/223241.368:ERROR:process_info.cc(359)] UncheckedAllocate
+[1208/223241.448:ERROR:process_info.cc(359)] UncheckedAllocate
+[1208/223405.322:ERROR:process_info.cc(359)] UncheckedAllocate
+[1208/223506.670:ERROR:process_info.cc(359)] UncheckedAllocate

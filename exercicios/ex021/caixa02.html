@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grouping Tags</title>
+    <link rel="shortcut icon" href="icone.rafa.ico" type="image/x-icon">
+    <style>
+        h1#principal{
+            background-color: cadetblue;
+            color: white;
+        }
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: dimgrey;
+            margin: 0px;
+        }
+       
+        header{
+            background-color: white;
+            padding: 10px;
+            margin: 10px;
+        }
+
+        nav{
+            background-color: rgb(102, 102, 102);
+            padding: 3px;
+            box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.383);
+        }
+
+        nav > a{
+            text-decoration: none;
+            color: white;
+            font-weight: bold;
+            margin-right: 30pt;
+
+        }
+        nav >a:hover{
+            text-decoration: underline;
+            
+        }
+        main{
+            background-color: white;
+            padding: 10px;
+            margin: 10px;
+            border-radius:10px 0px;
+            box-shadow: 4px 4px 9px 0px rgba(0, 0, 0, 0.384);
+        }
+        
+        article{
+            background-color: lightgray;
+            padding: 5px;
+        }
+
+        article > aside{
+            background-color: rgb(165, 165, 165);
+        }
+        footer{
+            background-color: black;
+            color: white;
+            text-align: center;
+            padding: 0px;
+            margin: 0px;
+        }
+        footer > p{
+            margin: 0px;
+        }
+        div#bola{
+            height: 100px;
+            width: 100px;
+            margin: 10px;
+            background-color: white;
+            border-radius: 50%;
+        }
+    </style>
+</head>
+<body>
+    
+    <header>
+        <h1 id="principal">Meu Site</h1>
+        <nav>
+            <a href="#">Link</a>
+            <a href="#">Link</a>
+            <a href="#">Link</a>
+            <a href="#">Link</a>
+            <a href="#">Link</a>
+        </nav>
+
+    </header>
+    <main>
+        <section id ="assuntos">
+         <p>Esportes > Politica > Tecnologia</p>   
+        </section>
+        <section id ="noticias">
+            <article>
+           <h2>Notícia sobre o brasil</h2>
+           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique earum, reiciendis unde totam id rem tenetur dolorum magni a saepe at minima sint maiores doloremque. Minus iure eos quisquam cupiditate!</p>
+            </article>
+            <article>
+             <aside>
+                 <p>artigo escrito por<a href="https://www.instagram.com/rafaelamoreira599/" target="_blank"> Rafaela Moreira</a> </p>
+             </aside>   
+            </article>
+            <article>
+
+            </article>
+        </section>
+    </main>
+    <footer>
+        <p>&copyDesenvolvido pelo CursoemVideo</p>
+    </footer>
+    <div id="bola">
+
+    </div>
+    
+</body>
+</html>

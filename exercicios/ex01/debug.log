@@ -1,0 +1,2 @@
+[1031/213744.070:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/213744.150:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\USER\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\6bec9d70-88ec-4748-9458-25b9b597a3b6: O sistema não pode encontrar o caminho especificado. (0x3)
